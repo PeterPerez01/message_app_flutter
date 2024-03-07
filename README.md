@@ -32,7 +32,7 @@ App running on Emulator
 - Lists and complex data structures
 - Use of API
 - Dio
--Provider
+- Provider
 
 ## Requirements
 - Dart

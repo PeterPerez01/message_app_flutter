@@ -16,6 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 App running on Emulator
+
 ![image](https://github.com/PeterPerez01/message_app_flutter/assets/56180954/778996f7-787f-47b9-b258-b733fa6d046f)
 
 
